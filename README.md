@@ -1,18 +1,10 @@
-# minimal-react-webpack
-> A minimal React Webpack configuration
+# React/Redux starter
+Getting started with implementing reduct into react
 
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+https://www.valentinog.com/blog/react-redux-tutorial-beginners/#React_Redux_tutorial_who_this_guide_is_for
 
 ## Development
 
 ```bash
 npm i && npm start
 ```
-
-## Meta
-
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
